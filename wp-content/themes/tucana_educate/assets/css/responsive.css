@@ -1,0 +1,71 @@
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+/* YOUR STYLE GOES HERE */
+  
+}
+
+
+
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+/* YOUR STYLE GOES HERE */
+  
+}
+@media only screen 
+and (min-width : 1050px) 
+and (max-width : 1100px){
+/* YOUR STYLE GOES HERE */
+
+}
+
+
+/* iPad 1 & 2 in portrait ----------- */
+@media only screen 
+and (min-width : 768px) 
+and (max-width : 1024px){
+/* YOUR STYLE GOES HERE */
+  
+}
+
+
+
+/* Kindle Portrait 600 X 1024 ----------- */
+@media only screen
+and (min-width: 595px)
+and (max-width: 767px){
+/* YOUR STYLE GOES HERE */
+  
+}
+
+
+
+/* All Smartphones in portrait and landscape ----------- */
+@media only screen 
+and (min-width : 480px) 
+and (max-width : 594px) {
+/* YOUR STYLE GOES HERE */
+  
+}
+
+/* All Smartphones in landscape ----------- */
+@media only screen 
+and (min-width : 321px)and (max-width : 479px) {
+ 
+}
+
+
+/* All Smartphones in potrait ----------- */
+@media only screen 
+and (max-width : 767px) {
+    .navbar-bootstrap li {
+	  padding: 10px 0;
+	  width: 100%;
+	}
+	.navbar-inverse .navbar-toggle .icon-bar {
+	  background-color: #222;
+	}
+}
+
